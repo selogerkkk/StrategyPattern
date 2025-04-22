@@ -1,0 +1,1 @@
+This is a study project to my class of pattern design.
